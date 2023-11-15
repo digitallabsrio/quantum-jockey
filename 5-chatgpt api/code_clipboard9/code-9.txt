@@ -1,0 +1,4 @@
+import time
+
+# After sending a request:
+time.sleep(2)  # Wait for 2 seconds before sending the next request

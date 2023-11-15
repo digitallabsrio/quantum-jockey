@@ -1,0 +1,4 @@
+if response.status_code != 200:
+    error_data = json.loads(response.text)
+    print("Error:", error_data['error']['message'])
+    break

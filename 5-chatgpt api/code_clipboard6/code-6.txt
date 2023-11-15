@@ -1,0 +1,8 @@
+while True:
+    response = requests.post(API_ENDPOINT, headers=HEADERS, json=payload)
+    data = json.loads(response.text)
+    reply = data['choices'][0]['message']['content']
+    print("ChatGPT's reply:", reply)
+
+    user_input = input("Your message: ")
+    payload['messages'].append({"role": "user", "content": user_input})

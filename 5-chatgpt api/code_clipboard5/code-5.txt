@@ -1,0 +1,6 @@
+payload = {
+    "messages": [
+        {"role": "system", "content": "Thanks for helping."},
+        {"role": "user", "content": "Who is the first president of Pakistan?"}
+    ]
+}

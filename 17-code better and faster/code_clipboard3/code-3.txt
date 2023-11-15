@@ -1,0 +1,9 @@
+# Example code to generate comments
+def multiply(a, b):
+    """
+    Function to multiply two numbers.
+    """
+    result = a * b
+    return result
+
+product = multiply(3, 4)

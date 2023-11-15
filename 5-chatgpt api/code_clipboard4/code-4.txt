@@ -1,0 +1,3 @@
+data = json.loads(response.text)
+reply = data['choices'][0]['message']['content']
+print("ChatGPT's reply:", reply)

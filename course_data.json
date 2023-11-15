@@ -1,0 +1,31 @@
+{
+  "course_name": "Master ChatGPT Prompt Engineering - Learn Interactively",
+  "course_overview": "ChatGPT is one of the most advanced AI systems available today. In this course, you will dive into the world of generative AI and get the ability to effectively use it.\n\nThe course briefly explains the recent advances in generative AI, more specifically, ChatGPT. It covers the basics of prompting and then explains the best practices for effective prompting. Furthermore, it describes how ChatGPT can be harnessed for transforming, expanding, summarizing, or inferring information. Domain-specific use cases of ChatGPT are also discussed, such as using it for professional writing and for search engine optimization. Effective ChatGPT prompting techniques are also shared for the marketing and academic domains. It also briefly covers autoprompts, chatbots, and the limitations of ChatGPT. \n\nAfter taking this course, you will be able to master prompting and will have the knowledge to effectively use it.",
+  "course_folder": "master chatgpt prompt engineering",
+  "course_lessons": [
+    "0-about the course",
+    "1-what is generative ai",
+    "2-llms the building blocks of generative ai",
+    "3-chatgpt under the hood",
+    "4-chatgpt usage",
+    "5-chatgpt api",
+    "6-basics of prompting",
+    "7-iterative refinement",
+    "8-inferring with chatgpt",
+    "9-transforming with chatgpt",
+    "10-expanding with chatgpt",
+    "11-formatting output with chatgpt",
+    "12-best practices for effective prompting",
+    "13-to enhance your marketing strategy",
+    "14-to improve search engine optimization",
+    "15-for effective human resource management",
+    "16-for personal growth email cover letter and resume",
+    "17-code better and faster",
+    "18-usage in academia",
+    "19-autoprompt",
+    "20-chatbots",
+    "21-limitations of chatgpt",
+    "22-wrapping up"
+  ],
+  "repo_name": "quantum-jockey"
+}

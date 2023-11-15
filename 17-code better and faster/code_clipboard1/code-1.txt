@@ -1,0 +1,8 @@
+# Example code to determine the running time complexity
+def find_sum(n):
+    sum = 0
+    for i in range(n):
+        sum += i
+    return sum
+
+result = find_sum(100)
